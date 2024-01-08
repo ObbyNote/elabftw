@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <strong>A free, modern, versatile, secure electronic lab notebook for researchers</strong>
+  <strong>A Byzantine fault-tolerant electronic lab notebook for researchers</strong>
 </p>
 
 ### [Official website](https://www.elabftw.net) | [Live demo](https://demo.elabftw.net) | [Documentation](https://doc.elabftw.net) | [Dedicated hosting](https://www.deltablot.com/elabftw)
@@ -27,14 +27,14 @@
 **eLabFTW** is an electronic lab notebook manager for research teams.
 
 It lets you store and organize your research experiments easily. It also features a database where any kind of objects (such as antibodies, plasmids, cell lines, boxes, _etc_.) can be stored.
-It is accessed _via_ the browser. Several research teams can be hosted on the same installation. This means **eLabFTW** can be installed at the institute level and host all team members at the same place. This is what is done at in many research institutions around the globe. It is also a great solution for companies looking into improving the traceability and reproducibility of their processes.
+It is accessed _via_ the browser. Several research teams can be hosted on the same installation. This means **eLabFTW** can be installed at the institute level and host all team members at the same place. This is what is done in many research institutions around the globe. It is also a great solution for companies looking into improving the traceability and reproducibility of their processes.
 
 ## Features
 
 * Lab notebook for experiments
 * Database for lab reagents, equipment, storage, cell lines, etc...
 * Trusted timestamping
-* Blockchain timestamping
+* BFT timestamping
 * Import and export in various formats
 * Calendar to manage booking of equipment
 * Support for various scientific file formats
